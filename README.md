@@ -10,30 +10,6 @@ Time Series Clustering: Groups companies based on their weekly return patterns, 
 
 The final output helps investors select a diversified portfolio by choosing top-performing stocks from different clusters, reducing unsystematic risk.
 
-🔧 Installation
-Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/portfolio-diversification-clustering.git
-cd portfolio-diversification-clustering
-Install dependencies:
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-(Ensure you have Python 3.8+ and libraries like pandas, numpy, matplotlib, scikit-learn, tslearn, and Streamlit for dashboard visualisation.)
-
-🚀 Usage
-Open the Jupyter Notebook:
-
-bash
-Copy
-Edit
-jupyter notebook w1911180_2021549.ipynb
-Run each cell sequentially to:
 
 Load and preprocess stock market data
 
@@ -47,11 +23,7 @@ Generate visualisations for investor insights
 
 For the Streamlit dashboard, run:
 
-bash
-Copy
-Edit
-streamlit run dashboard.py
-(If a separate dashboard script is included.)
+
 
 📈 Key Methods
 ✔️ Data Preprocessing
@@ -85,6 +57,6 @@ Best stocks selected from each cluster to maximise return while minimising risk
 
 Dashboard visualisations for intuitive investor decision-making
 
-(Refer to the notebook’s conclusion and dashboard for detailed interpretations.)
+📊 [Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDQ2YWQzMDYtYzBjZi00YTUwLTg5ZTMtMzA3MGMwNTA0MGI0IiwidCI6IjlhNWI1NjkxLWE0NTEtNDllNy05M2RlLTljNjFjYjA0MzI4YiIsImMiOjEwfQ%3D%3D&pageName=999fee26b3aa602810d8)
 
 
